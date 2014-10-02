@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sampl
+#
+
+projectname: sampl
+vendorid: com.mycompany
+mainmodule: com.mycompany.sampl
